@@ -1,0 +1,22 @@
+{
+  "name": "@lesniakcorp/eventbus",
+  "version": "0.1.0",
+  "description": "Basic JS event bus",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesniakcorp/eventbus.git"
+  },
+  "author": {
+    "name": "Lesniak Corp",
+    "email": "mathieu@lesniak.fr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lesniakcorp/eventbus/issues"
+  },
+  "homepage": "https://github.com/lesniakcorp/eventbus#readme"
+}
